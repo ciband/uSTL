@@ -1,0 +1,24 @@
+{
+    "name": "uSTL",
+    "keywords": "Cpp, STL, PlatformIO, Arduino, ESP8266, ESP32",
+    "description": "A very tiny port of STL.",
+    "homepage": "https://github.com/sleepdeficit/uSTL",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sleepdeficit/uSTL"
+    },
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Simon Downey",
+            "email": "simon@ark.io",
+            "url": "https://github.com/sleepdefic1t"
+        },
+        {
+            "name": "Chris Johnson",
+            "url": "https://github.com/ciband"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
